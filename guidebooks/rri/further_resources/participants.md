@@ -26,3 +26,4 @@ comment = *"comment text"*
 | [@ejmoss](https://github.com/ejmoss) | *"Amazing! I have thoroughly enjoyed this course, discussed with and learnt from everyone involved, and I am looking forward to what is to come - for the remainder of the course and beyond."* |
 | [@aragn](https://github.com/aragn) | *"Great course. I look forward to joining more workshops and activities offered by the Alan Turing Institute."* |
 [@fatemehnj](https://github.com/fatemehnj) | *"It's been a fantastic experience for me, very insightful!"*|
+[@anandkumaresh](https://github.com/anandkumaresh) | *"Thoroughly enjoyed being part of the course. Liked the course content, diverse participants, group activities and the open discussions. Thank you!"*|
